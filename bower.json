@@ -1,0 +1,8 @@
+{
+	"name": "retiin_frontend-tracker-js",
+	"version": "0.13.0",
+	"dependencies": {
+		"mustache": "latest",
+		"cookie": "gh-pages"
+	}
+}
